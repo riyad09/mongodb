@@ -1,2 +1,0 @@
-“This text replaces existing text in the file”
-“This text is added to the end of the file”
